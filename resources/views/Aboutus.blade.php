@@ -86,8 +86,8 @@ body{
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="thumbnail"><img src="http://getwallpapers.com/wallpaper/full/4/d/1/744025-widescreen-bill-gates-wallpaper-1920x1080-desktop.jpg">
                         <div class="caption">
-                            <h4>Mr. Bill Gates</h4>
-                            <p>Founder of FoodHub</p>
+                            <h4>Aman Kumar</h4>
+                            <p>Founder of Explorica</p>
                         </div>
                     </div>
                 </div>
@@ -95,8 +95,8 @@ body{
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="thumbnail"><img src="https://cdn.wallpapersafari.com/54/90/P5xiaj.jpg">
                       <div class="caption">
-                            <h4>Mr. Mark Zuckeburg</h4>
-                            <p>Administrator of FoodHub</p>
+                            <h4>Nitin Saini</h4>
+                            <p>Administrator of Explorica</p>
                         </div>
                     </div>
                 </div>
@@ -104,8 +104,8 @@ body{
                  <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="thumbnail"><img src="https://wallpapercave.com/wp/wp4171369.jpg">
                           <div class="caption">
-                            <h4>Mr. Larry Page</h4>
-                            <p>CEO of FoodHub</p>
+                            <h4>Abhishek Kumar</h4>
+                            <p>CEO of Explorica</p>
                         </div>
 
                     </div>
@@ -113,8 +113,8 @@ body{
                               <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="thumbnail"><img src="http://getwallpapers.com/wallpaper/full/0/d/7/789930-amazing-elon-musk-wallpapers-1920x1080.jpg">
                           <div class="caption">
-                            <h4>Mr. Elon Musk</h4>
-                            <p>Co-Founder of FoodHub</p>
+                            <h4>Kishan Kumar</h4>
+                            <p>Co-Founder of Explorica</p>
                         </div>
 
                     </div>
