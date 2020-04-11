@@ -84,7 +84,7 @@ body{
         
             <div class="row">
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="thumbnail"><img src="http://getwallpapers.com/wallpaper/full/4/d/1/744025-widescreen-bill-gates-wallpaper-1920x1080-desktop.jpg">
+                    <div class="thumbnail"><img src="AMAN.jpeg">
                         <div class="caption">
                             <h4>Aman Kumar</h4>
                             <p>Founder of Explorica</p>
@@ -93,7 +93,7 @@ body{
                 </div>
 
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="thumbnail"><img src="https://cdn.wallpapersafari.com/54/90/P5xiaj.jpg">
+                    <div class="thumbnail"><img src="NITI.jpeg">
                       <div class="caption">
                             <h4>Nitin Saini</h4>
                             <p>Administrator of Explorica</p>
@@ -102,7 +102,7 @@ body{
                 </div>
 
                  <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="thumbnail"><img src="https://wallpapercave.com/wp/wp4171369.jpg">
+                    <div class="thumbnail"><img src="ABHI.jpeg">
                           <div class="caption">
                             <h4>Abhishek Kumar</h4>
                             <p>CEO of Explorica</p>
@@ -111,7 +111,7 @@ body{
                     </div>
                 </div> 
                               <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="thumbnail"><img src="http://getwallpapers.com/wallpaper/full/0/d/7/789930-amazing-elon-musk-wallpapers-1920x1080.jpg">
+                    <div class="thumbnail"><img src="KISH.jpeg">
                           <div class="caption">
                             <h4>Kishan Kumar</h4>
                             <p>Co-Founder of Explorica</p>
