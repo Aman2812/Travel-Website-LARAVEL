@@ -247,6 +247,8 @@ Route::get('/success','newController@success');
 
 
 
+Route::get('/signup/store','newController@store1');
+
 
 
 
