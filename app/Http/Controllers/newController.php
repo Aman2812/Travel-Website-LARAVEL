@@ -175,6 +175,24 @@ class newController extends Controller
     {
         return view('Success');
     }
+
+    public function store1(Request $req){
+        $fname=$req->fname;
+        $lname=$req->lname;
+        $email=$req->email;
+        $password=$req->password;
+        $number=$req->number;
+
+        $p= new\App\customer;
+        $p->First_Name=$fname;
+        $p->Last_Name=$lname;
+        $p->Email=$email;
+        $p->Password=$password;
+        $p->Phone_Number=$number;
+
+        $p->save();
+
+    }
  
 
 
