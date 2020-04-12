@@ -138,19 +138,20 @@ function myFunction() {
 
 
     <form>
-    <form name="myForm" action="abc.php" onsubmit="return validateForm()" method="post">
+    <form name="myForm" action="/signup/store1"  method="POST">
+      @csrf
     <h1 style="color: black;">Sign up</h1>
   
     <input type="text" name="fname" placeholder="Enter Your First Name" required="">
   <br>
-    <input type="text" placeholder="Enter Your Last Name" required="">
+    <input type="text" placeholder="Enter Your Last Name" name="lname" required="">
     <br>
-    <input type="email" placeholder="Enter Your Email"required="">
+    <input type="email" placeholder="Enter Your Email" name="email" required="">
     <br>
-    <input type="password" id="myInput" placeholder="Enter Your Password"required="">
+    <input type="password" id="myInput" name="password" placeholder="Enter Your Password"required="">
     <input type="checkbox" onclick="myFunction()"><p style="color: white;">Show Password</p>
     
-    <input type="number" placeholder="Enter Your Phone Number"required=""><br>
+    <input type="number" name="number" placeholder="Enter Your Phone Number"required=""><br>
     <button class="submit-btn" onclick="newUser2()">Sign Up</button>
     </form>
   </form>
